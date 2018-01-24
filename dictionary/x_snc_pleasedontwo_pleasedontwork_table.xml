@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="PleaseDontWork Table" max_length="40" name="x_snc_pleasedontwo_pleasedontwork_table" type="collection"/>
+</database>
